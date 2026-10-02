@@ -13,9 +13,16 @@ Anchor public key: `6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48
 
 ## Verify a checkpoint
 
-1. Take `checkpoints/<ts>.json`. Recompute the canonical payload:
-   `python3 -c "import json; d=json.load(open('checkpoints/<ts>.json'))['payload']; print(json.dumps(d, sort_keys=True, separators=(',',':')))"`
-2. Verify the Ed25519 `signature_hex` against the anchor public key above.
+Quick (one command):
+```
+pip install pynacl
+python3 verify.py            # verifies checkpoints/latest.json
+python3 verify.py checkpoints/<ts>.json
+```
+
+Manual:
+1. Recompute the canonical payload: `json.dumps(payload, sort_keys=True, separators=(',',':'))`.
+2. Verify the Ed25519 `signature_hex` against the anchor public key above (detached: signature || canonical bytes).
 3. Fetch the live head: `curl https://switchboard-ai.fly.dev/api/v1/chain/head?room=<name>`
    — it must match (or descend from) the anchored head for that room.
    Recompute the room's hash chain from the export to confirm linkage.
