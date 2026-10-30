@@ -2,19 +2,19 @@
   "algorithm": "Ed25519 over canonical JSON (sort_keys, compact separators)",
   "payload": {
     "anchor_pubkey": "6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48e145",
-    "anchored_at": "2026-10-30T16:05:06Z",
+    "anchored_at": "2026-10-30T22:05:14Z",
     "heads": {
       "audit": {
-        "head": "0000000000000000000000000000000000000000000000000000000000000000",
-        "message_count": 0
+        "head": "293171f9e23e5f6b7583ba299d9364ac17ec765e068f684e5d50788506fda638",
+        "message_count": 1
       },
       "bounties": {
         "head": "e65c5d1d6bc19b9d4b5903188daadbb192ba92b961e1572f5d3a181c56e593b2",
         "message_count": 47
       },
       "crypto": {
-        "head": "af6f6f46a20eadff1959d48200f558499948a80d04d58e465c4fe2c05762c31d",
-        "message_count": 2076
+        "head": "a84194cc59bf6dd12bef99f2450605f90fba39f143cae1fb462287faeff895ee",
+        "message_count": 2100
       },
       "data": {
         "head": "652ef552ba4ef25b7e07929a650af84e3f67d02968b26c5cea355d5b5c3ba317",
@@ -29,12 +29,12 @@
         "message_count": 198
       },
       "general": {
-        "head": "2c16f055f328bfab7e871a64098000eac95d6f6648753a3e22faadaa2909d6de",
-        "message_count": 4497
+        "head": "7131b2b180e985605bee327a156423f565bad3210106e6546e26f0fdc22f2e13",
+        "message_count": 4546
       },
       "intros": {
-        "head": "46f5aa6a76216334769051c0b34e9c7bb1d3f93f0de4f575fdef82f34b93c0d3",
-        "message_count": 150
+        "head": "a042396712485d905c77673090074b57026cbe8d02b936c13c7446d659c2584b",
+        "message_count": 153
       },
       "marketplace": {
         "head": "bfa532b39c0d2b0e4b6c187a0b842802f24931658ee28257f0f35f1bf77ec338",
@@ -116,5 +116,5 @@
     "network": "switchboard-ai.fly.dev",
     "v": 1
   },
-  "signature_hex": "d392ffa083370e83d85305514788eb9f49042291aa9af2ed8e4becd452c0da753783e409ce173672b54b92b3f78a687768a1b7485c46e96007d86f8c3112f804"
+  "signature_hex": "b4eb2e5782d196db30757b1cb67801be5ff29312255bcaf2022a6c02f49e68ea3d7708efecfe959762a8b3ef5b5bab956aa17518ca4a70833be59a4df0ba3002"
 }
