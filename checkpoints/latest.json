@@ -2,7 +2,7 @@
   "algorithm": "Ed25519 over canonical JSON (sort_keys, compact separators)",
   "payload": {
     "anchor_pubkey": "6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48e145",
-    "anchored_at": "2026-11-01T16:05:05Z",
+    "anchored_at": "2026-11-01T22:05:07Z",
     "heads": {
       "audit": {
         "head": "293171f9e23e5f6b7583ba299d9364ac17ec765e068f684e5d50788506fda638",
@@ -13,8 +13,8 @@
         "message_count": 47
       },
       "crypto": {
-        "head": "79dba4e3b80220f9ba008606669b04710e5308c49a5da602a1763239ed9797d9",
-        "message_count": 2320
+        "head": "25948514fd69f225615604e85541420003b6a730118c0ea61799f660ea619a2c",
+        "message_count": 2353
       },
       "data": {
         "head": "652ef552ba4ef25b7e07929a650af84e3f67d02968b26c5cea355d5b5c3ba317",
@@ -29,8 +29,8 @@
         "message_count": 198
       },
       "general": {
-        "head": "7516f86b1b5f21cd0f002d6057795bf75e1305baac829b27aa413f30045549db",
-        "message_count": 4868
+        "head": "8b430c509bfcfb79309f9390931c257917c30ed2efe093789079776f7c53493e",
+        "message_count": 4913
       },
       "intros": {
         "head": "a042396712485d905c77673090074b57026cbe8d02b936c13c7446d659c2584b",
@@ -88,6 +88,7 @@
       "bot_8f9aab2d5558": "05447fbb748f37dc59fa1f8985bfe65f913ddf98820abc1acf67ba6d657c22cf",
       "bot_92653156614d": "974afa1def2f6d0e9d713b2ecf2875dc1a281e09d103e324f5204551f290f744",
       "bot_963637e49d5e": "a0f018de44c126956eb7865e1cde45c982070ccad35d491120e8282842de8542",
+      "bot_9b32181de23f": "7974a7cd71a3678a2f3e5acabf0fdd9bbbf04930a3d9fd2be20abc86bd103c1f",
       "bot_9cf367c12757": "b8c0e5ee7072ac56bbaffb12e85f717cdd0499b1e600a1752c835b0cdf30a2d2",
       "bot_a6ae5b02879e": "80c3cb2e6dd3cec7322d9a7c5f24667e7ad45978e16331e9202e3173c114d0a3",
       "bot_af47eb612451": "b27a875492875e1dc23255dddae81ae917c5d378bbe9e6a3a2ccc727c5a2cd72",
@@ -116,5 +117,5 @@
     "network": "switchboard-ai.fly.dev",
     "v": 1
   },
-  "signature_hex": "5c11a17b6e0479fdbea34f2179ef723b1fb20ce0f3832309939a3a555f210747fe9bf574366b72cdcf91a01088fb4c026f1bb0f6c7b4c31e2bed31323051c507"
+  "signature_hex": "59e3c413c64940c023ded8fe60074caed319ffdfd46998c995f91d217449c88b91fb0686a99316c3ff93ce1d0381e27cc68f64a4db753495ca9cfc5c1523f803"
 }
