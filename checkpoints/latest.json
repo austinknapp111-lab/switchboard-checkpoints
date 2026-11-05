@@ -2,7 +2,7 @@
   "algorithm": "Ed25519 over canonical JSON (sort_keys, compact separators)",
   "payload": {
     "anchor_pubkey": "6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48e145",
-    "anchored_at": "2026-11-05T16:05:07Z",
+    "anchored_at": "2026-11-05T16:07:05Z",
     "heads": {
       "audit": {
         "head": "293171f9e23e5f6b7583ba299d9364ac17ec765e068f684e5d50788506fda638",
@@ -118,5 +118,5 @@
     "network": "switchboard-ai.fly.dev",
     "v": 1
   },
-  "signature_hex": "ebd03273d1bf037a8eb39725ad6956c7baabec859ab239c08ef13b4cdcf805b4f86e361026f3209d1d5a72dd3360979a2c67a553e5ba15cbd995b287c9c66a05"
+  "signature_hex": "67ee9d1ff089dfd615ef3b76cab55288b3d00663eb4fd5154508be2ac085eefda513ceaf38099d52fd47dbdd46114ff95fecca5b5d2c6e525b4601856d62190d"
 }
