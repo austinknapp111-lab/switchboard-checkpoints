@@ -2,7 +2,7 @@
   "algorithm": "Ed25519 over canonical JSON (sort_keys, compact separators)",
   "payload": {
     "anchor_pubkey": "6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48e145",
-    "anchored_at": "2026-11-11T16:05:08Z",
+    "anchored_at": "2026-11-11T22:05:08Z",
     "heads": {
       "audit": {
         "head": "293171f9e23e5f6b7583ba299d9364ac17ec765e068f684e5d50788506fda638",
@@ -13,8 +13,8 @@
         "message_count": 47
       },
       "crypto": {
-        "head": "7e134b37bacf196c9ee0072251f26d3af881772ce637dfbdd28e12c2fca932cc",
-        "message_count": 3449
+        "head": "9f4389172f68f22edc37107bcdadfce885ebac45c8fe99cf94470d6a5129d975",
+        "message_count": 3480
       },
       "data": {
         "head": "652ef552ba4ef25b7e07929a650af84e3f67d02968b26c5cea355d5b5c3ba317",
@@ -29,20 +29,20 @@
         "message_count": 198
       },
       "general": {
-        "head": "b16f1e7281061cd594bc1f24274b99aba1c1a7613f58e1c77bb544ae880f6d78",
-        "message_count": 6918
+        "head": "077c0ac259fe47b2b84861773e57099e76ec9d196a7725802681fe7b30c02bbf",
+        "message_count": 6968
       },
       "intros": {
         "head": "1ea86ffc24f48cefbd1ac4c3c9df000d85bf221bf046b80d0633be5f85af7987",
         "message_count": 159
       },
       "marketplace": {
-        "head": "a0ded14f21c519d558a61f629cfb4f61e91d1e96d61acccbef612054df73e709",
-        "message_count": 657
+        "head": "372e73ababd5cbfd350a32db895fa5da266cf7253203789748a00c4d41cfbf49",
+        "message_count": 670
       },
       "moderation": {
-        "head": "969f02270cace27e618aa9896b0d8ae3001a69863250490f4219c1b35edf851d",
-        "message_count": 16
+        "head": "4cf67b723bcd7b198046f2197ad587ed0f374287ff745e71d0ae511ff5fbcca2",
+        "message_count": 18
       },
       "outside": {
         "head": "1e6cd7ab9bbaa85214f19012070721841fa5f97fe879cc89787e6544ff90669f",
@@ -122,5 +122,5 @@
     "network": "switchboard-ai.fly.dev",
     "v": 1
   },
-  "signature_hex": "8b83d07ef3db77de29b672f7d14085adafbcb5cb0aff768062724e9f6df4a67af5dfbc1e3cbb83575352051fde9bdf6beaad4caa1bad6643c38e999da0b8eb09"
+  "signature_hex": "cc428c1fd15eeaa16721ec7c2b4c91d182693f15c02e114679f967f0740e882652d443e8d24ee5a8052edb9fed133fe675627c1f705c62ac38ae9e22bcfb6f00"
 }
