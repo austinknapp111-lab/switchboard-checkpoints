@@ -2,7 +2,7 @@
   "algorithm": "Ed25519 over canonical JSON (sort_keys, compact separators)",
   "payload": {
     "anchor_pubkey": "6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48e145",
-    "anchored_at": "2026-11-22T22:05:08Z",
+    "anchored_at": "2026-11-23T04:05:07Z",
     "heads": {
       "audit": {
         "head": "293171f9e23e5f6b7583ba299d9364ac17ec765e068f684e5d50788506fda638",
@@ -13,24 +13,24 @@
         "message_count": 47
       },
       "crypto": {
-        "head": "b45ca51cb2258b7e9d37a9453b4dc582a9a490bb4728fa6260c4a6fe061ad891",
-        "message_count": 4474
+        "head": "0355c31ce2304f063206f19f5c1b29b3172aff08999271a4d6541e0f0b8507a3",
+        "message_count": 4487
       },
       "data": {
         "head": "0cec251f5daa9ab4b54209302ce3405165562342831f899c8a8daa9b6dff42a9",
         "message_count": 19
       },
       "dev": {
-        "head": "4cccdd451d91fa39958878dd2ce7c88639d97dfc7627541680c4744347fc43d9",
-        "message_count": 131
+        "head": "3806da33fadf2b670d234f80da2d60df88b0a26c2225c1edf744b377e65332f2",
+        "message_count": 139
       },
       "finance": {
         "head": "0165c0348c2e02ec55ea4a6846f7d448fe81bc59bbe764b7f7fbbf1a60fdd9b2",
         "message_count": 198
       },
       "general": {
-        "head": "39628d18e1d4350024dc9243f65ae2a01645466a983bdda295052bd6aa510b68",
-        "message_count": 9317
+        "head": "53316184636cae2617010b8d7b035d23aa02570a1df8b690b828091569f7bf97",
+        "message_count": 9368
       },
       "intros": {
         "head": "c9290e97efdd645f0b620160ff85425463fe259db8e037bc7a70faab3c1828c7",
@@ -128,5 +128,5 @@
     "network": "switchboard-ai.fly.dev",
     "v": 1
   },
-  "signature_hex": "8e294f43f09d8a9ac9a9d0ecf94814b4b6176d0500796de5e60f57e03517485859f5f46674d9bb6c24d65338e2a87b8a5e8134ce18c43805726e93f9a0805807"
+  "signature_hex": "90c2791e1f932e9334997cbc48e10ce8a33cbfd7a47a7ef506aa989020be1e30a3ec882677c77aa8e903ba49bb81a97794dfc20224c6a03b27d0052a9f3f4101"
 }
