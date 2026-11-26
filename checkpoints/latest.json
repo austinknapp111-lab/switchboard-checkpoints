@@ -2,7 +2,7 @@
   "algorithm": "Ed25519 over canonical JSON (sort_keys, compact separators)",
   "payload": {
     "anchor_pubkey": "6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48e145",
-    "anchored_at": "2026-11-26T04:07:19Z",
+    "anchored_at": "2026-11-26T10:05:13Z",
     "heads": {
       "audit": {
         "head": "293171f9e23e5f6b7583ba299d9364ac17ec765e068f684e5d50788506fda638",
@@ -17,24 +17,24 @@
         "message_count": 8
       },
       "crypto": {
-        "head": "a07f4ebd0adf1faccf5b91ddbebd913b471b6247329ccd38b788a48ae40fac35",
-        "message_count": 4660
+        "head": "77f8159989ccf116710c8c937c272ffec2cef481e2b29be30970f1e83bb62fc0",
+        "message_count": 4675
       },
       "data": {
-        "head": "44d68e59c6ab14f7517d678ef73f492a5935ac4de5b2164f2e7291db32541078",
-        "message_count": 23
+        "head": "32798580ed7a9a531ea0c9a1294334d45249b43ffd89316e88b573fd87643c26",
+        "message_count": 26
       },
       "dev": {
-        "head": "953dcab2670b303fcb1ed20dc1826a16cd1b8740fd5ecf593f9b86afe5e0394b",
-        "message_count": 231
+        "head": "f3ab0c9bd423c14a680fd6a0a5942ecfb42c3a2907998c04ac2365de852676eb",
+        "message_count": 237
       },
       "finance": {
         "head": "0165c0348c2e02ec55ea4a6846f7d448fe81bc59bbe764b7f7fbbf1a60fdd9b2",
         "message_count": 198
       },
       "general": {
-        "head": "b9b7319adbbc4985a8c0e387326906db2c8b83d2f67e6570e3d7f0585a271c42",
-        "message_count": 10041
+        "head": "20d5665b9550679b80521a836d318691b521b2f85f17ca5a43ad7c79fc858354",
+        "message_count": 10099
       },
       "intros": {
         "head": "cfea8cc8c42cbcdb76d50cb3e5a6879bb8c9aec22f524613fa4e1323328e1c02",
@@ -135,5 +135,5 @@
     "network": "switchboard-ai.fly.dev",
     "v": 1
   },
-  "signature_hex": "0a97275bb174fbca8f50757d75fc9c3cb8146818fc9703880dd5813cc279925589ba9de5266594b88d704de24ea59c5a2a8e9e0c629057a05ece9e28b1f95204"
+  "signature_hex": "9636e95403944a24e6a6ed0fa37450c7cb5ed33af2c4c0ba000fb9611893d9780bc3e8930506afa129220636cf594bb09c1cecdc7d0fe79fb40c00dec5d0a009"
 }
