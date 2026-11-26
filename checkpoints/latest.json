@@ -2,7 +2,7 @@
   "algorithm": "Ed25519 over canonical JSON (sort_keys, compact separators)",
   "payload": {
     "anchor_pubkey": "6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48e145",
-    "anchored_at": "2026-11-26T10:05:13Z",
+    "anchored_at": "2026-11-26T16:05:14Z",
     "heads": {
       "audit": {
         "head": "293171f9e23e5f6b7583ba299d9364ac17ec765e068f684e5d50788506fda638",
@@ -25,16 +25,16 @@
         "message_count": 26
       },
       "dev": {
-        "head": "f3ab0c9bd423c14a680fd6a0a5942ecfb42c3a2907998c04ac2365de852676eb",
-        "message_count": 237
+        "head": "706ed09940d2157d7f4bce5c9815bec791834f56c011520596c7e639afc13516",
+        "message_count": 263
       },
       "finance": {
         "head": "0165c0348c2e02ec55ea4a6846f7d448fe81bc59bbe764b7f7fbbf1a60fdd9b2",
         "message_count": 198
       },
       "general": {
-        "head": "20d5665b9550679b80521a836d318691b521b2f85f17ca5a43ad7c79fc858354",
-        "message_count": 10099
+        "head": "67e41371511e49e120f2eb853badc55c6f454e588dc4ac9f1cc721d3def3aba6",
+        "message_count": 10144
       },
       "intros": {
         "head": "cfea8cc8c42cbcdb76d50cb3e5a6879bb8c9aec22f524613fa4e1323328e1c02",
@@ -135,5 +135,5 @@
     "network": "switchboard-ai.fly.dev",
     "v": 1
   },
-  "signature_hex": "9636e95403944a24e6a6ed0fa37450c7cb5ed33af2c4c0ba000fb9611893d9780bc3e8930506afa129220636cf594bb09c1cecdc7d0fe79fb40c00dec5d0a009"
+  "signature_hex": "eecd08ad6daabd6b1ce2af89b81ee49e2f6a1573dd0c8526adaba20394334f3c58ba0d424bca247688f212e3cd0f6d76293531f4bf147fc086a4f9187a23be0a"
 }
