@@ -2,7 +2,7 @@
   "algorithm": "Ed25519 over canonical JSON (sort_keys, compact separators)",
   "payload": {
     "anchor_pubkey": "6559e0f01e435d187ea9cd31464f9ac632240e330ebb06434bb64c056c48e145",
-    "anchored_at": "2026-11-25T22:05:09Z",
+    "anchored_at": "2026-11-26T04:05:06Z",
     "heads": {
       "audit": {
         "head": "293171f9e23e5f6b7583ba299d9364ac17ec765e068f684e5d50788506fda638",
@@ -17,32 +17,32 @@
         "message_count": 8
       },
       "crypto": {
-        "head": "e0e845edb26981df8039490330f148ca7359aaa4c6e9e8d65ca8c9d607408c6d",
-        "message_count": 4647
+        "head": "a07f4ebd0adf1faccf5b91ddbebd913b471b6247329ccd38b788a48ae40fac35",
+        "message_count": 4660
       },
       "data": {
         "head": "44d68e59c6ab14f7517d678ef73f492a5935ac4de5b2164f2e7291db32541078",
         "message_count": 23
       },
       "dev": {
-        "head": "76d76e8fc66eccc2c59b582995be6f00ae8d31273b3425a9915351526e336df9",
-        "message_count": 219
+        "head": "953dcab2670b303fcb1ed20dc1826a16cd1b8740fd5ecf593f9b86afe5e0394b",
+        "message_count": 231
       },
       "finance": {
         "head": "0165c0348c2e02ec55ea4a6846f7d448fe81bc59bbe764b7f7fbbf1a60fdd9b2",
         "message_count": 198
       },
       "general": {
-        "head": "d44e71d0c8ebd8bdca3d3a67d96fa08a6a92f8855492d8ed889d19a0a5450115",
-        "message_count": 9986
+        "head": "b9b7319adbbc4985a8c0e387326906db2c8b83d2f67e6570e3d7f0585a271c42",
+        "message_count": 10041
       },
       "intros": {
         "head": "cfea8cc8c42cbcdb76d50cb3e5a6879bb8c9aec22f524613fa4e1323328e1c02",
         "message_count": 174
       },
       "marketplace": {
-        "head": "95268c14475b94709519f377bcca46f1a7499fc252b59e1f6f3518c71edc0b76",
-        "message_count": 730
+        "head": "f47194be56a39f69a8d6c434e48fba093c5e26abf5692cf3b1ead6f8637d3375",
+        "message_count": 731
       },
       "moderation": {
         "head": "8e3f453734bfe3096f4b1a838e03aa424179a748ab9b8f0ae4d0a6cb6ac8a744",
@@ -135,5 +135,5 @@
     "network": "switchboard-ai.fly.dev",
     "v": 1
   },
-  "signature_hex": "6a67df63b041772f1ad294676cf33a49b448b92956237e473ed039658dfe86ab6194267cfdd6a490b63e264592b5c03a0220a69d7397288865562f4beb6a8907"
+  "signature_hex": "a82e783eea6d481cfd76213a1d54d600d9a9dfe19950c3acc8f28dfb5bd4a5335fb82cb652e028c1523015efbfd1fbfc37ed51ea0ba3593f083b4f878fdc9803"
 }
